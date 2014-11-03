@@ -7,7 +7,6 @@ import org.joda.time.DateTime
 import org.elasticmq.util.Logging
 import org.elasticmq.util.NowProvider
 import org.elasticmq.OnDateTimeReceived
-import scala.Some
 import org.elasticmq.NewMessageData
 import org.elasticmq.msg.DeleteMessage
 import org.elasticmq.MessageId
